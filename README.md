@@ -2,13 +2,15 @@
 
 ## Overview
 
-SecureContentSharing is a platform designed to facilitate secure sharing of sensitive content over the internet. Whether it's OTPs or confidential passwords, our platform provides a robust solution that prioritizes user privacy. The core functionality includes the option to share sensitive information that automatically vanishes on reload, provided the user has chosen the secure paste option. Additionally, all shared content comes with a set expiration time, ensuring data is automatically deleted from the database after a specified period.
+Paste Secure is a platform designed to facilitate secure sharing of sensitive content over the internet. Whether it's OTPs or confidential passwords or any other content that user wants to share, our platform provides a robust solution that prioritizes user privacy. The core functionality includes the option to share sensitive information that automatically vanishes on reload, provided the user has chosen the secure paste option. Additionally, all shared content comes with a set expiration time, ensuring data is automatically deleted from the database after a specified period.
 
 ## Features:
 
 - Secure Sharing: Share OTPs and sensitive passwords confidently, knowing that they will vanish on reload.
 
 - Secure Paste Option: Users can opt for a secure paste, enhancing the privacy and confidentiality of shared information.
+
+- Content Sharing: Users can share the content over the network like poems, stories, project description and many more !
 
 - Automatic Expiration: All shared content comes with a predefined expiration time. Once expired, the data is automatically deleted from the database.
 
