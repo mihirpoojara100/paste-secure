@@ -1,22 +1,16 @@
-## Description
+# Paste Secure
 
-Transform content sharing securely! Share sensitive info with confidence—send OTPs, passwords that vanish on reload. Opt for secure paste with auto-deletion post-expiration. Redefine digital privacy effortlessly!
+## Overview
 
-#### Key Features:
+SecureContentSharing is a platform designed to facilitate secure sharing of sensitive content over the internet. Whether it's OTPs or confidential passwords, our platform provides a robust solution that prioritizes user privacy. The core functionality includes the option to share sensitive information that automatically vanishes on reload, provided the user has chosen the secure paste option. Additionally, all shared content comes with a set expiration time, ensuring data is automatically deleted from the database after a specified period.
 
-- URL Shortening: Generate short and unique aliases for long URLs, making them easier to share and remember.
+## Features:
 
-- User Authentication: Implement secure user authentication to enable account-based link management, tracking, and customization.
+- Secure Sharing: Share OTPs and sensitive passwords confidently, knowing that they will vanish on reload.
 
-- RESTful API: Provide a comprehensive and easy-to-use RESTful API for integrating the URL shortening service with other applications and platforms.
+- Secure Paste Option: Users can opt for a secure paste, enhancing the privacy and confidentiality of shared information.
 
-- Scalability: Design the backend to handle a high volume of requests efficiently, ensuring optimal performance as the user base grows.
-
-- Security Measures: Implement security best practices, including encryption, input validation, and protection against malicious activities such as link manipulation.
-
-- Database Integration: Utilize a reliable database system to store and retrieve shortened URL data, ensuring data consistency and durability.
-
-- Error Handling: Implement a robust error-handling mechanism to provide informative and user-friendly responses in case of issues.
+- Automatic Expiration: All shared content comes with a predefined expiration time. Once expired, the data is automatically deleted from the database.
 
 #### Technologies Used:
 
@@ -25,10 +19,6 @@ Transform content sharing securely! Share sensitive info with confidence—send 
 - Database: MYSQL
 
 - Framework: Nest JS
-
-#### Why EfficientLink Shortener?
-
-- EfficientLink Shortener offers a reliable and feature-rich backend solution for anyone looking to implement a URL shortening service. With a focus on scalability, security, and user customization, this project provides a solid foundation for creating a successful URL shortening platform.
 
 ## Installation
 
